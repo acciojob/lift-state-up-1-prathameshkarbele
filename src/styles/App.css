@@ -1,1 +1,11 @@
-
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .parent {
+    background-color: blueviolet;
+    padding: 10px;
+  }
+  .child {
+    background-color: brown;
+  }
